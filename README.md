@@ -1,20 +1,13 @@
 ### Hi there 👋
-###### I`m a student
+###### I`m a student, living in Tehran. Just wanna be better than yesterday😊
 
 ## How to find me:
 
-<a href="https://www.linkedin.com/in/seyedali-s-b30a4b1a0/"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" width="50" height="60"> LinkedIn </a>
-<!--
-**SAliSH79/SAliSH79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/seyedali-s-b30a4b1a0/"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" width="30" height="30">
+</a>
+<br >
+<br >
+<br >
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SAliSH79)](https://github.com/SAliSH79/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
