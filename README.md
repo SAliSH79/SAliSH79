@@ -3,7 +3,7 @@
 
 ## How to find me:
 
-<a href="https://www.linkedin.com/in/seyedali-s-b30a4b1a0/"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn">
+<a href="https://www.linkedin.com/in/seyedali-s-b30a4b1a0/"><img src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" alt="LinkedIn" width="50" height="60">
 <!--
 **SAliSH79/SAliSH79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
