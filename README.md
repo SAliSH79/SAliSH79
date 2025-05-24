@@ -1,5 +1,5 @@
 # Hi there 👋
-## BSc Student at AUT Iran
+## MSc Student at TU Dresden
 ### Aus Schaden wird Mann klug.
 #### How to find me:
 ##### feel free to text me👍
